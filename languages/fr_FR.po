@@ -1,0 +1,375 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Iconic-One\n"
+"POT-Creation-Date: 2013-08-26 23:37+0530\n"
+"PO-Revision-Date: 2014-02-02 02:03-0800\n"
+"Last-Translator: Geoffrey Liu <main@g-liu.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Language: fr_FR\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\apps\\wordpress\\htdocs\\wp-content\\themes"
+"\\iconic-one\n"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/404.php:17
+msgid "Nothing Here!"
+msgstr "Rien ici!"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/404.php:21
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/content-none.php:17
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/index.php:53
+msgid "Kindly search your topic below or browse the recent posts."
+msgstr ""
+"Veuillez chercher votre sujet ci-dessous, ou parcourir les articles récents"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/archive.php:29
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Archives quotidiennes: %s"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/archive.php:31
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Archives mensuelles: %s"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/archive.php:33
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Archives annuelles: %s"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/archive.php:35
+msgid "Archives"
+msgstr "Archives"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/author.php:29
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Archives d'auteur: %s"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/author.php:50
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/content.php:73
+#, php-format
+msgid "About %s"
+msgstr "Sur %s"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/category.php:16
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Archives de catégorie: %s"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/comments.php:36
+msgid "Comment navigation"
+msgstr "Navigation de commentaire"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/comments.php:37
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaies plus anciennes"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/comments.php:38
+msgid "Newer Comments &rarr;"
+msgstr "Commentaires plus récentes &rarr;"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/comments.php:47
+msgid "Comments are closed."
+msgstr "Commentaires sont fermés"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/content-none.php:13
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/index.php:49
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/search.php:34
+msgid "Nothing Found"
+msgstr "Rien trouvé"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/content-page.php:18
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/content.php:60
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/image.php:92
+msgid "Pages:"
+msgstr "Pages:"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/content-page.php:21
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/content.php:66
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/functions.php:227
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/image.php:37
+msgid "Edit"
+msgstr "Réviser"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/content.php:14
+msgid "Featured Article"
+msgstr "Article vedette"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/content.php:22
+#, php-format
+msgid "Permalink to %s"
+msgstr "Permalien à %s"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/content.php:28
+msgid "By"
+msgstr "Par"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/content.php:36
+msgid "0 Comment"
+msgstr "0 Commentaires"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/content.php:36
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/inc/widget-recent-posts.php:60
+msgid "1 Comment"
+msgstr "1 Commentaire"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/content.php:36
+msgid "% Comments"
+msgstr "% Commentaires"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/content.php:59
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuer à lire <span class=\"meta-nav\">&rarr;</span>"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/content.php:77
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Voir tous les articles par %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/functions.php:34
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/functions.php:119
+#, php-format
+msgid "Page %s"
+msgstr "Page %s"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/functions.php:144
+msgid "Main Sidebar"
+msgstr "Sidebar principal"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/functions.php:146
+msgid "This is a Sitewide sidebar which appears on posts and pages"
+msgstr "Ca s'agit une sidebar sitewide qui apparaît sur les articles et pages"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/functions.php:168
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/single.php:18
+msgid "Post navigation"
+msgstr "Navigation d'article"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/functions.php:169
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Articles plus anciennes"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/functions.php:170
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Posts plus récentes <span class=\"meta-nav\">&rarr;</span>"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/functions.php:195
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/functions.php:195
+msgid "(Edit)"
+msgstr "(Réviser)"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/functions.php:210
+msgid "Post author"
+msgstr "Auteur d'article"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/functions.php:216
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/functions.php:222
+msgid "Your comment is awaiting moderation."
+msgstr "Votre comment est en attente de modération"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/functions.php:231
+msgid "Reply"
+msgstr "Répondez"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/functions.php:250
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/functions.php:253
+msgid ", "
+msgstr ","
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/functions.php:264
+#, php-format
+msgid "View all posts by %s"
+msgstr "Voir tous les articles par %s"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/functions.php:270
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author"
+"\"> by %4$s</span>."
+msgstr ""
+"Cette inscription a été publiée dans %1$s et a été étiquetée %2$s, %3$s<span "
+"class=\"by-author\"> par %4$s</span>."
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/functions.php:272
+#, php-format
+msgid ""
+"This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</"
+"span>."
+msgstr ""
+"Cette inscription a été publiée dans %1$s, %3$s<span class=\"by-author\"> "
+"par %4$s</span>."
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/functions.php:274
+#, php-format
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""
+"Cette inscription a été publiée le/la %3$s<span class=\"by-author\"> par "
+"%4$s</span>."
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/header.php:60
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/image.php:26
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+"<span class=\"meta-prep meta-prep-entry-date\">Publié le/la </span> <span "
+"class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</"
+"time></span> à <a href=\"%3$s\" title=\"Link to full-size image\">%4$s "
+"&times; %5$s</a> dans <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery"
+"\">%8$s</a>."
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/image.php:41
+msgid "&larr; Previous"
+msgstr "&larr; Précédente"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/image.php:42
+msgid "Next &rarr;"
+msgstr "Prochaîne &rarr;"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/index.php:38
+msgid "No posts to display"
+msgstr "Aucun articles à montrer"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/index.php:42
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+"Prèt(e) à publier votre première article? <a href=\"%s\">Commencez ici</a>."
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Resultats pour: %s"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/search.php:38
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Desolé, mais rien ne correspond à votre cherche. Veuillez essayer de nouveau "
+"avec des mots clés différents."
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/sidebar.php:20
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/inc/widget-recent-posts.php:26
+msgid "Recent Posts"
+msgstr "Articles Récentes"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/sidebar.php:24
+msgid "Pages"
+msgstr "Pages"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/sidebar.php:29
+msgid "Tag Cloud"
+msgstr "Nuage de marques"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/tag.php:19
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Archives de marque: %s"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/inc/iconic-one-options.php:17
+msgid "Iconic One"
+msgstr "Iconic One"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/inc/iconic-one-options.php:18
+msgid "Customize Iconic One"
+msgstr "Personnaliser Iconic One"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/inc/themonic-customizer.php:28
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/inc/themonic-customizer.php:34
+msgid "Logo"
+msgstr "Logo"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/inc/themonic-customizer.php:61
+msgid "Footer"
+msgstr "Footer"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/inc/themonic-customizer.php:125
+msgid "Social"
+msgstr "Social"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/inc/widget-recent-posts.php:11
+msgid "List recent posts with thumbnails from custom categories."
+msgstr ""
+"Enumérer des articles récentes avec des vignettes de catégories personnalisés"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/inc/widget-recent-posts.php:13
+msgid "themonic Recent Posts"
+msgstr "themonic Articles Récentes"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/inc/widget-recent-posts.php:56
+msgid "0 Comments"
+msgstr "0 Commentaires"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/inc/widget-recent-posts.php:58
+msgid " Comments"
+msgstr "Commentaires"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/inc/widget-recent-posts.php:62
+#, php-format
+msgid ""
+"<span class=\"sep\"> | </span><a href=\"%1$s\" title=\"Comment on %3$s\">"
+"%2$s</a>"
+msgstr ""
+"<span class=\"sep\"> | </span><a href=\"%1$s\" title=\"Commenter sur %3$s\">"
+"%2$s</a>"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/inc/widget-recent-posts.php:120
+msgid "Title:"
+msgstr "Titre:"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/inc/widget-recent-posts.php:123
+msgid "Number of posts to show:"
+msgstr "Nombre d'articles à afficher"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/inc/widget-recent-posts.php:125
+msgid "(at most 15)"
+msgstr "(au plus 15)"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/inc/widget-recent-posts.php:127
+msgid "Posts offset"
+msgstr "Contrebalance d'articles"
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/inc/widget-recent-posts.php:129
+msgid "Provide an offset number to which you wish to skip the posts."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/inc/widget-recent-posts.php:131
+msgid "Cat IDs to exclude or include:"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/inc/widget-recent-posts.php:134
+msgid ""
+"Category IDs, separated by commas. Eg: 3,6,7 to include. Or -3,-6,-7 to "
+"exclude."
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/inc/widget-recent-posts.php:136
+msgid "Hide Thumbnails?"
+msgstr ""
+
+#: C:\xampp\apps\wordpress\htdocs\wp-content\themes\iconic-one/inc/widget-recent-posts.php:138
+msgid "If unchecked, it will show post thumbnails."
+msgstr ""
