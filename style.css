@@ -108,34 +108,28 @@ img {
 	font-size: 32px;
 	width: 32px;
 	height: auto;
-	color: white;
 	padding: 2px;
-	-o-border-radius: 5px;
-	-ms-border-radius: 5px;
-	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
-	border-radius: 5px;
 }
 .genericon-twitter {
-	background-color: #4099ff;
+	color: #4099ff;
 }
 .genericon-youtube {
-	background-color: #cd201f;
+	color: #cd201f;
 }
 .genericon-facebook {
-	background-color: #3B5998;
+	color: #3B5998;
 }
 .genericon-googleplus, .genericon-googleplus-alt {
-	background-color: #DB4935;
+	color: #DB4935;
 }
 .genericon-linkedin, .genericon-linkedin-alt {
-	background-color: #007BB6;
+	color: #007BB6;
 }
 .genericon-stumbleupon {
-	background-color: #FF2618
+	color: #FF2618
 }
 .genericon-feed {
-	background-color: #F4824C;
+	color: #F4824C;
 }
 /* Logo responsiveness in case of big logos */
 .themonic-logo img {
