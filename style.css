@@ -22,7 +22,49 @@
  */
 
 /* CSS RESET */
-a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,em,embed,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:'';content:none}table{border-collapse:collapse;border-spacing:0}caption,td,th{font-weight:400;text-align:left}h1,h2,h3,h4,h5,h6{clear:both}html{overflow-y:scroll;font-size:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}a:focus{outline:0}article,aside,details,figcaption,figure,footer,header,nav,section{display:block}
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
 
 /* Styles begin here */
 div.hgroup {
@@ -244,6 +286,7 @@ li.bypostauthor cite span {
 .comment-content img,
 .widget img {
 	max-width: 100%; /* Fluid images for posts, comments, and widgets */
+	height: auto;
 }
 img[class*="align"],
 img[class*="wp-image-"],
@@ -433,13 +476,13 @@ img.wp-smiley,
 /* =Basic structure
 -------------------------------------------------------------- */
 
-/* Body, links, basics */
 html {
 	font-size: 90.5%;
 }
+/* Body, links, basics */
 body {
 	font-size: 14px;
-	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
 	color: #444;
 }
@@ -580,6 +623,7 @@ section[role="banner"] {
 	word-wrap: break-word;
 }
 .widget-area .widget-title {
+	margin-bottom: 1em;
 	background: #F2F2F2;
 	font-size: 16px;
 }
@@ -596,7 +640,6 @@ section[role="banner"] {
 	padding: 5px 0;
 }
 .widget-area .widget p {
-	margin-bottom: 12px;
 	padding: 10px;
 	line-height: 1.714285714;
 }
@@ -1391,6 +1434,48 @@ select.selectnav {
 /* when to trigger the select menu.js #menu-top { 
 		display: inline!important; 
 	}*/
+
+#subscribe-email {
+	-webkit-animation: shake .5s ease-in-out 3s;
+	animation: shake .5s ease-in-out 3s;
+}
+
+/**
+ * Animations
+ */
+@-webkit-keyframes shake {
+  0%, 100% {
+    -webkit-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+  }
+
+  10%, 30%, 50%, 70%, 90% {
+    -webkit-transform: translate3d(0, -10px, 0);
+            transform: translate3d(0, -10px, 0);
+  }
+
+  20%, 40%, 60%, 80% {
+    -webkit-transform: translate3d(0, 10px, 0);
+            transform: translate3d(0, 10px, 0);
+  }
+}
+
+@keyframes shake {
+  0%, 100% {
+    -webkit-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+  }
+
+  10%, 30%, 50%, 70%, 90% {
+    -webkit-transform: translate3d(0, -10px, 0);
+            transform: translate3d(0, -10px, 0);
+  }
+
+  20%, 40%, 60%, 80% {
+    -webkit-transform: translate3d(0, 10px, 0);
+            transform: translate3d(0, 10px, 0);
+  }
+}
 
 @media screen and (max-width: 768px) {
 		
